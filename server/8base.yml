@@ -1,0 +1,6 @@
+functions:
+  Test0:
+    type: resolver
+    handler:
+      code: src/resolvers/Test0/handler.ts
+    schema: src/resolvers/Test0/schema.graphql
